@@ -1,0 +1,9 @@
+Unnamed: 0,P_ID,gender,visits,checkup,follow_up,illness,surgery,ER
+0,0,1,male,1,1,0,0,0,0
+1,1,2,male,2,1,0,0,0,1
+2,2,4,female,4,1,1,2,0,0
+3,3,5,female,12,1,2,7,2,0
+4,4,7,female,2,1,0,1,0,0
+5,5,8,male,2,1,0,1,0,0
+6,6,9,male,1,0,0,0,0,1
+7,7,10,female,1,0,0,0,0,1
